@@ -21,6 +21,7 @@ public class MyMain {
             }
         }
         return false;
+
     }
 
     // Checks whether str is a palindrome or not
